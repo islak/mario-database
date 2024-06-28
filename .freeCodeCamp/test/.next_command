@@ -1,2 +1,4 @@
 psql --username=freecodecamp dbname=actions
 psql --username=freecodecamp dbname=mario_database
+git status
+git add .
